@@ -1,6 +1,8 @@
 # sample-QMDL-in-PH-Makati-city
 Using Rayhunter on TP-Link M7350 with firmware v9.0.3 Build 241219 Rel.1089n 
 
+![Uploading Rayhunter_TP-Link-M7350_geolocation-from-QMDL_Drexx-20251023.png…]()
+
 
 Decoded trace from TP-Link M7350 using Rayhunter 0.7,1. I marked each heuristic as **Observed / Not Observed / Inconclusive**.
 
