@@ -35,7 +35,7 @@ Decoded trace from TP-Link M7350 using Rayhunter 0.7,1. I marked each heuristic 
 
 * **INFERENCE:**
 
-  * No evidence of a **forced downgrade** in the decoded segment. **Confidence: Medium** (subject to capture completeness).
+  * No evidence of a **forced downgrade** in the decoded segment. 
   * **Result:** **Not Observed.**
   * **Heuristic cross-reference:** This is one of classic downgrade indicators; but it does not appear. 
 
@@ -52,7 +52,7 @@ Decoded trace from TP-Link M7350 using Rayhunter 0.7,1. I marked each heuristic 
 
 * **INFERENCE:**
 
-  * With **no SIB6/SIB7 scheduled**, there is **no broadcast “lure”** toward 3G/2G in this cell as decoded. **Confidence: High** (based on explicit SIB1 schedule lines).
+  * With **no SIB6/SIB7 scheduled**, there is **no broadcast “lure”** toward 3G/2G in this cell as decoded. 
   * **Result:** **Not Observed.**
   * **Heuristic cross-reference:** Your guidance expects SIB6/SIB7 if a rogue cell is trying to nudge inter-RAT reselection. 
 
@@ -69,7 +69,7 @@ Decoded trace from TP-Link M7350 using Rayhunter 0.7,1. I marked each heuristic 
 
 * **INFERENCE:**
 
-  * No evidence of **AS null cipher** in these decodes. **Confidence: Medium** (absence in excerpt ≠ absolute absence).
+  * No evidence of **AS null cipher** in these decodes. 
   * **Result:** **Not Observed.**
   * **Heuristic cross-reference:** A rogue insisting on EEA0/EIA0 would be a red flag; but not present here. 
 
@@ -86,7 +86,7 @@ Decoded trace from TP-Link M7350 using Rayhunter 0.7,1. I marked each heuristic 
 
 * **INFERENCE:**
 
-  * **NAS null ciphering is not evidenced** here; on the contrary, authenticated NAS is seen here. **Confidence: Medium-High.**
+  * **NAS null ciphering is not evidenced** here; on the contrary, authenticated NAS is seen here.
   * **Result:** **Not Observed.**
   * **Heuristic cross-reference:** Warnings against EEA0/EIA0 at NAS are not indicated in this trace. 
 
@@ -103,7 +103,7 @@ Decoded trace from TP-Link M7350 using Rayhunter 0.7,1. I marked each heuristic 
 
 * **INFERENCE:**
 
-  * **No SIB malformation** or “advertised-but-missing” behavior is visible from the extracted lines. **Confidence: Medium** (sample size limited).
+  * **No SIB malformation** or “advertised-but-missing” behavior is visible from the extracted lines.
   * **Result:** **Not Observed.**
   * **Heuristic cross-reference:** Malformed/missing SIBs are treated as a common rogue artifact; not seen here. 
 
