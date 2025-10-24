@@ -2,7 +2,7 @@
 Using Rayhunter on TP-Link M7350 with firmware v9.0.3 Build 241219 Rel.1089n 
 
 
-Decoded trace from TP-Link M7350 using Rayhunter 0.7,1. I marked each heuristic as **Observed / Not Observed / Inconclusive**, cite the exact packet text, and separate **FACTS** from **INFERENCES**.
+Decoded trace from TP-Link M7350 using Rayhunter 0.7,1. I marked each heuristic as **Observed / Not Observed / Inconclusive**.
 
 ---
 
