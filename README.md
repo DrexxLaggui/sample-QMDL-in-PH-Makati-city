@@ -115,7 +115,7 @@ Decoded trace from TP-Link M7350 using Rayhunter 0.7,1. I marked each heuristic 
 
 ---
 
-# Consolidated Assessment (per your “bundle the signals” guidance)
+# Consolidated Assessment
 
 * **FACTS (recap):**
 
